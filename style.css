@@ -61,6 +61,7 @@ body{
     background-image: url(background.svg);
     background-size: cover;
     background-position: center;
+    background-repeat: no-repeat;
     display: flex;
     flex-direction: column;
     margin: 0;
@@ -153,7 +154,7 @@ button{
     top: 0;
     padding: 10px;
     background-color: var(--nav-bg);
-    border-radius: 8px 0 0 8px;
+    border-radius: 0 0 0 8px;
     gap: 8px;
     transform: translateX(100%);
     transition: transform 0.2s ease;
