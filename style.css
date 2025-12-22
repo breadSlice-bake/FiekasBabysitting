@@ -163,9 +163,13 @@ button{
     transform: translateX(0);
 }
 .navItem{
+    color: #4f0571;
     font-size: 18px;
     padding: 10px;
     transition: transform 0.3s ease;
+}
+.navItem a{
+    color: #6e1697;
 }
 .navItem:hover{
     transform: scale(1.1);
