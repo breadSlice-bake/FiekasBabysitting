@@ -9,7 +9,7 @@
     white-space: nowrap;
     border: 0;
 }
-body, html{
+body{
     background-image: url(background.svg);
     background-size: cover;
     background-position: center;
@@ -132,7 +132,7 @@ h1, h2{
     font-family: "Noto Sans", sans-serif;
 }
 .photoBanner img{
-    z-index: 0;
+    z-index: -1;
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -141,7 +141,7 @@ h1, h2{
     position: absolute;
 }
 .photoBanner h1{
-    z-index: 1;
+    z-index: 0;
     color: #f2f2f2;
 }
 .photoBanner{
