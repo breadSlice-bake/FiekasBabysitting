@@ -93,7 +93,7 @@ main{
 footer{
     display: flex;
     justify-content: center;
-    background-color: #cfcfcf;
+    background-color: inherit;
     color: #cfd7e6;
     margin-top: auto;
     padding: 10px 0 5px 0;
@@ -152,7 +152,7 @@ button{
     right: 0;
     top: 0;
     padding: 10px;
-    background-color: rgba(184, 127, 200, 0.886);
+    background-color: var(--nav-bg);
     border-radius: 8px 0 0 8px;
     gap: 8px;
     transform: translateX(100%);
