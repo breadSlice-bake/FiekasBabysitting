@@ -35,3 +35,12 @@ scrollToTop.addEventListener("click",()=>{
         behavior: "smooth"
     });
 });
+
+function flash(){
+      const bar = document.getElementById("contact");
+  bar.classList.add("flash");
+
+  setTimeout(() => {
+    bar.classList.remove("flash");
+  }, 1000);
+}
