@@ -1,4 +1,5 @@
 html{
+    display: none;
     scroll-behavior: smooth;
 }
 :root {
