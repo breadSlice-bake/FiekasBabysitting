@@ -107,7 +107,8 @@ footer{
     width: 100%;
 }
 #contact{
-    padding: 10px;
+    border-radius: 30px;
+    padding: 10px 0 4px 0;
     display: flex;
     width: 100%;
     justify-content: space-around;
@@ -115,6 +116,7 @@ footer{
 }
 .flash {
   background-color: #75179e;
+  border-radius: 20px;
 }
 .container{
     display: flex;
