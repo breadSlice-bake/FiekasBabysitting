@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="7.1282468mm"
-   height="5.5853443mm"
-   viewBox="0 0 7.1282468 5.5853443"
+   width="9.2082052mm"
+   height="5.9004884mm"
+   viewBox="0 0 9.2082053 5.9004883"
    version="1.1"
    id="svg1"
    xml:space="preserve"
@@ -24,7 +24,7 @@
      inkscape:deskcolor="#505050"
      inkscape:document-units="mm"
      inkscape:zoom="8.3956828"
-     inkscape:cx="58.36333"
+     inkscape:cx="61.817486"
      inkscape:cy="41.152103"
      inkscape:window-width="1920"
      inkscape:window-height="1051"
@@ -41,7 +41,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-58.772159,-67.680149)"><g
+     transform="translate(-57.858243,-67.680149)"><g
        style="fill:none;stroke:currentColor;stroke-width:1.5"
        id="g1"
        transform="matrix(0.26458333,0,0,0.26458333,59.174077,66.041709)"><path
@@ -93,16 +93,17 @@
          rx="1.24795"
          ry="1.3387101" /></g><text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.175px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.264583"
-       x="58.505508"
-       y="73.236038"
-       id="text1"><tspan
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:3.10619px;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#000000;stroke-width:0.258849"
+       x="60.907047"
+       y="70.343292"
+       id="text1"
+       transform="scale(0.96340905,1.0379807)"><tspan
          sodipodi:role="line"
          id="tspan1"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.264583"
-         x="58.505508"
-         y="73.236038">Menu</tspan></text><text
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;stroke-width:0.258849"
+         x="60.907047"
+         y="70.343292">Menu</tspan></text><text
        xml:space="preserve"
        transform="matrix(0.26458333,0,0,0.26458333,58.31134,67.680149)"
        id="text2"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);fill:#000000" /></g></svg>
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Calibri;-inkscape-font-specification:Calibri;text-align:start;writing-mode:lr-tb;direction:ltr;white-space:pre;shape-inside:url(#rect2);display:inline;fill:#000000" /></g></svg>
